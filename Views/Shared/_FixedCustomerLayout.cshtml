@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head margin-rightead>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- awesone fonts css-->
+    <link href="/stylesheet/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <!-- owl carousel css-->
+    <link rel="stylesheet" href="/stylesheet/owl-carousel/assets/owl.carousel.min.css" type="text/css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/stylesheet/css/bootstrap.min.css">
+    <!-- Admin CSS -->
+    <link rel="stylesheet" href="/stylesheet/css/style.css">
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent" id="gtco-main-nav">
+        <div class="container">
+            <a class="navbar-brand">E-Banking</a>
+            <button class="navbar-toggler" data-target="#my-nav" onclick="myFunction(this)" data-toggle="collapse">
+                <span class="bar1"></span> <span class="bar2"></span> <span class="bar3"></span>
+            </button>
+            <div id="my-nav" class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item"><a class="nav-link" href="/AccountCreation/FixedCustomerHome">Home</a></li>
+                    <li class="nav-item"><a class="navbar-brand">Fixed Customer Panel</a></li>
+
+
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <label id="Name" style="margin-right:10px;">Hello, User</label>
+                    <a href="/AccountCreation/Login" class="btn btn-info my-2 my-sm-0 text-uppercase">Logout</a>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <hr />
+    <nav class="navbar-expand-lg navbar-light bg-light bg-transparent" id="gtco-main-nav">
+        <button class="navbar-toggler" data-target="#my-nav" onclick="myFunction(this)" data-toggle="collapse">
+            <span class="bar1"></span> <span class="bar2"></span> <span class="bar3"></span>
+        </button>
+        <div id="my-nav" class="collapse navbar-collapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a class="nav-link" href="/CustomerDetail/DisplayCustomerDetailForFixed">Profile</a></li>
+                <li class="nav-item"><a class="nav-link" href="/MoneyTransaction/CheckBalanceForFixed">Balance</a></li>
+                <li class="nav-item"><a class="nav-link" href="/TransactionReport/TransactionForFixedUser">Transaction</a></li>
+                <li class="nav-item"><a class="nav-link" href="/CustomerDetail/ChangePassForFixed">Change Password</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+
+
+    <div class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-1 px-4 px-xl-5 bg-primary"></div>
+    <br />
+    <!-- Footer Start -->
+    <footer class="container-fluid" id="gtco-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6" id="contact">
+                    <h4> Contact Us </h4>
+                    <input type="text" class="form-control" placeholder="Full Name">
+                    <input type="email" class="form-control" placeholder="Email Address">
+                    <textarea class="form-control" placeholder="Message"></textarea>
+                    <a href="#" class="submit-button">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-6">
+                            <h4>Company</h4>
+                            <ul class="nav flex-column company-nav">
+                                <li class="nav-item"><a class="nav-link" href="/AccountCreation/FixedCustomerHome">Home</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                            </ul>
+
+                        </div>
+                        <div class="col-6">
+                            <h4>Services</h4>
+                            <ul class="nav flex-column services-nav">
+                                <li class="nav-item"><a class="nav-link" href="#">Digital Banking</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#">Balance</a></li>
+
+                            </ul>
+                        </div>
+                        <div class="col-12">
+                            <p>&copy; 2021. All Rights Reserved.Design by Capgemini.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Footer End -->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/stylesheet/js/jquery-3.3.1.slim.min.js"></script>
+    <script src="/stylesheet/js/popper.min.js"></script>
+    <script src="/stylesheet/js/bootstrap.min.js"></script>
+    <!-- owl carousel js-->
+    <script src="/stylesheet/owl-carousel/owl.carousel.min.js"></script>
+    <script src="/stylesheet/js/main.js"></script>
+
+
+</body>
+</html>

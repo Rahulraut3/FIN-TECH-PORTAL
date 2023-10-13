@@ -1,0 +1,62 @@
+﻿@model IEnumerable<IBS_DALayer.Models.TransactionReport>
+
+@{
+    ViewData["Title"] = "TransactionForFixedUser";
+    Layout = "~/Views/Shared/_FixedCustomerLayout.cshtml";
+}
+<h5 style="color:red;">@ViewBag.ExcError</h5>
+<div class="d-flex justify-content-center bg-primary text-white "> Transactions </div>
+
+
+<table class="table table-primary table-hover">
+     <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SenderAccountNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RecieverAccountNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TransactionType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfTransaction)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TransactionId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SenderAccountNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RecieverAccountNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TransactionType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfTransaction)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+

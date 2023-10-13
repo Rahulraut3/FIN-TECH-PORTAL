@@ -1,0 +1,633 @@
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\appsettings.json
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\libman.json
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.StaticWebAssets.xml
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.exe
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.deps.json
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.runtimeconfig.json
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.runtimeconfig.dev.json
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.Views.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.Views.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_DALayer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_RSLayer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_DALayer.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_RSLayer.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.AssemblyReference.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.AssemblyInfoInputs.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.AssemblyInfo.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.CoreCompileInputs.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.MvcApplicationPartsAssemblyInfo.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorAssemblyInfo.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorAssemblyInfo.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\staticwebassets\IBS_UILayer.StaticWebAssets.Manifest.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.TagHelpers.input.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.TagHelpers.output.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorCoreGenerate.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Login.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Registration.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\PersonalDetail.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\InterestCalculation\CalculatedInterest.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\InterestCalculation\CalculateInterest.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\CustomerPanel.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\Home.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\Index.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\Deposit.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\MoneyTransfer.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\ShowBalance.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\TransactionDone.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\Withdrawal.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomerLayout.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FixedCustomerLayout.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\ShowAllTransaction.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionByAccNo.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorTargetAssemblyInfo.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorTargetAssemblyInfo.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.Views.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.CopyComplete
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.genruntimeconfig.cache
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\ShowAllRequest.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Accept.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Reject.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\FixedCustomerHome.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\SavingCustomerHome.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionForUser.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionForFixedUser.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\CheckBalanceForFixed.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassForSaving.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassDone.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassForFixed.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\PasswordChanged.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.MvcApplicationPartsAssemblyInfo.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetail.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetailsForAdmin.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditPersonalDetail.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditNomineeDetails.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetailForFixed.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditPersonalDetailForFixed.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditNomineeDetailsForFixed.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\libman.json
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.StaticWebAssets.xml
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.exe
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.deps.json
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.runtimeconfig.json
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.runtimeconfig.dev.json
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.Views.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.Views.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_DALayer.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_EXLayer.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_RSLayer.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_DALayer.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_EXLayer.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_RSLayer.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.AssemblyReference.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.AssemblyInfoInputs.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.AssemblyInfo.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.CoreCompileInputs.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.MvcApplicationPartsAssemblyInfo.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.MvcApplicationPartsAssemblyInfo.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorAssemblyInfo.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorAssemblyInfo.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\staticwebassets\IBS_UILayer.StaticWebAssets.Manifest.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.TagHelpers.input.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.TagHelpers.output.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorCoreGenerate.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Accept.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\CreateUser.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\FixedCustomerHome.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Login.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Registration.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Reject.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\SavingCustomerHome.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\ShowAllRequest.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassDone.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassForFixed.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassForSaving.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetail.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetailForFixed.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetailsForAdmin.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditNomineeDetails.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditNomineeDetailsForFixed.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditPersonalDetail.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditPersonalDetailForFixed.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\PasswordChanged.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\PersonalDetail.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\InterestCalculation\CalculatedInterest.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\InterestCalculation\CalculateInterest.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\CustomerPanel.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\Home.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\Index.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\CheckBalanceForFixed.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\Deposit.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\MoneyTransfer.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\ShowBalance.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\TransactionDone.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\Withdrawal.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomerLayout.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FixedCustomerLayout.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\ShowAllTransaction.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionByAccNo.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionForFixedUser.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionForUser.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorTargetAssemblyInfo.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorTargetAssemblyInfo.cs
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.Views.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.CopyComplete
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.dll
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.pdb
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.genruntimeconfig.cache
+D:\InternetBankingSystem(FINAL)\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Welcome.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_EXLayer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_EXLayer.pdb
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Welcome.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\CustomerDetailByAccNoForAdmin.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\CustomerDetailByAccNo.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\AdminHome.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ErrorPage.cshtml.g.cs
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\MailKit.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\MimeKit.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+F:\IBS_Project\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\libman.json
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.StaticWebAssets.xml
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.exe
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.deps.json
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.runtimeconfig.json
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.runtimeconfig.dev.json
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.Views.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_UILayer.Views.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_DALayer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_EXLayer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_RSLayer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_DALayer.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_EXLayer.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\bin\Debug\netcoreapp3.1\IBS_RSLayer.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.AssemblyReference.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.AssemblyInfoInputs.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.AssemblyInfo.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.CoreCompileInputs.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.MvcApplicationPartsAssemblyInfo.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorAssemblyInfo.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorAssemblyInfo.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\staticwebassets\IBS_UILayer.StaticWebAssets.Manifest.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.TagHelpers.input.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.TagHelpers.output.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorCoreGenerate.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Accept.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\AdminHome.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\FixedCustomerHome.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Login.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Registration.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Reject.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\SavingCustomerHome.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\ShowAllRequest.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\AccountCreation\Welcome.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassDone.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassForFixed.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\ChangePassForSaving.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\CustomerDetailByAccNo.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\CustomerDetailByAccNoForAdmin.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetail.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetailForFixed.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\DisplayCustomerDetailsForAdmin.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditNomineeDetails.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditNomineeDetailsForFixed.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditPersonalDetail.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\EditPersonalDetailForFixed.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\PasswordChanged.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\CustomerDetail\PersonalDetail.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\InterestCalculation\CalculatedInterest.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\InterestCalculation\CalculateInterest.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\CustomerPanel.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\Home.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MainMenu\Index.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\CheckBalanceForFixed.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\Deposit.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\MoneyTransfer.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\ShowBalance.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\TransactionDone.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\MoneyTransaction\Withdrawal.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ErrorPage.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CustomerLayout.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FixedCustomerLayout.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainMenu.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\ShowAllTransaction.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionByAccNo.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionForFixedUser.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\TransactionReport\TransactionForUser.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorTargetAssemblyInfo.cache
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.RazorTargetAssemblyInfo.cs
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.Views.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.csproj.CopyComplete
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.dll
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.pdb
+D:\Final Proj Assembly\InternetBankingSystem\IBS_UILayer\obj\Debug\netcoreapp3.1\IBS_UILayer.genruntimeconfig.cache

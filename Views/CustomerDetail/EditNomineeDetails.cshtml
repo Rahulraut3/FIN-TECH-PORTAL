@@ -1,0 +1,47 @@
+﻿@model IBS_DALayer.Models.NomineeDetail
+
+@{
+
+    ViewData["Title"] = "EditNomineeDetails";
+    Layout = "~/Views/Shared/_CustomerLayout.cshtml";
+}
+<h5 style="color:red;">@ViewBag.ExcError</h5>
+<hr />
+<div class="row">
+    <div class="col-md-4 offset-1">
+        <form asp-action="EditNomineeDetails" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="AccountNumber" class="control-label"></label>
+                <input asp-for="AccountNumber" class="form-control" disabled />
+                <span asp-validation-for="AccountNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomineeName" class="control-label"></label>
+                <input asp-for="NomineeName" class="form-control" />
+                <span asp-validation-for="NomineeName" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label"></label>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NomineeAddress" class="control-label"></label>
+                <input asp-for="NomineeAddress" class="form-control" />
+                <span asp-validation-for="NomineeAddress" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="offset-1">
+    <a asp-action="DisplayCustomerDetail">Back to List</a>
+</div>
+

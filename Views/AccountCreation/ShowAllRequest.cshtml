@@ -1,0 +1,134 @@
+﻿@model IEnumerable<IBS_DALayer.Models.AccountCreationRequest>
+@{
+    ViewData["Title"] = "ShowAllRequest";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h5 style="color:red;">@ViewBag.ExcError</h5>
+
+
+<table class="table table-primary table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RequestId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dob)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Aadhar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AccountBalance)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.BranchName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ifsccode)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.AccountType)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.NomineeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Relation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomineeAddress)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RequestId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dob)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pan)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aadhar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountBalance)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.BranchName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ifsccode)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.AccountType)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.NomineeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Relation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomPhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomineeAddress)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                
+                @Html.ActionLink("Accept", "Accept", new { ACrequest = item.RequestId }) 
+                @Html.ActionLink("Reject", "Reject", new { ACrequest = item.RequestId }) 
+
+                
+               @* @Html.ActionLink("Accept", "Accept","AccountCreation",null, new { ACrequest = item.RequestId,style="color:Green;font-weight:bold;" }) 
+                @Html.ActionLink("Reject", "Reject","AccountCreation",null, new { ACrequest = item.RequestId,style="color: Red;font-weight:bold;" })
+               *@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

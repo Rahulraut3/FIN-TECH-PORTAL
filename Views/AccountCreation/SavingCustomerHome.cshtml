@@ -1,0 +1,355 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head margin-rightead>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- awesone fonts css-->
+    <link href="/stylesheet/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <!-- owl carousel css-->
+    <link rel="stylesheet" href="/stylesheet/owl-carousel/assets/owl.carousel.min.css" type="text/css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/stylesheet/css/bootstrap.min.css">
+    <!-- custom CSS -->
+    <link rel="stylesheet" href="/stylesheet/css/style.css">
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h5 style="color:red;">@ViewBag.ExcError</h5>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light bg-transparent" id="gtco-main-nav">
+        <div class="container"><a class="navbar-brand">E-Banking</a>
+            <button class="navbar-toggler" data-target="#my-nav" onclick="myFunction(this)" data-toggle="collapse"><span
+                    class="bar1"></span> <span class="bar2"></span> <span class="bar3"></span></button>
+            <div id="my-nav" class="collapse navbar-collapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item"><a class="nav-link" href="/AccountCreation/SavingCustomerHome">Home</a></li>
+                    <li class="nav-item"><a class="navbar-brand" href="/CustomerDetail/DisplayCustomerDetail">Saving Customer Panel</a></li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <label id="Name" style="margin-right:10px;">Hello, User</label>
+                    <a href="/AccountCreation/Logout" class="btn btn-info my-2 my-sm-0 text-uppercase">Logout</a>
+                </form>
+            </div>
+        </div>
+    </nav>
+<hr/>
+
+<!-- Banner Area -->
+<div class="container-fluid gtco-banner-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h1> We promise to bring
+                    the best solution for
+                    your Banking needs. </h1>
+                <p>  <short>Now, find all account related information at one place and easily access all 
+                    service requests. All payments and transfer options are available within same menu.</short></p>
+                </div>
+            <div class="col-md-6">
+                <div class="card"><img class="card-img-top img-fluid " src="/StyleSheet/images/banner3.gif" alt=""></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Services Area -->
+<div class="container-fluid gtco-feature" id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="cover">
+                    <div class="card">
+                        <svg class="back-bg"
+                                width="100%" viewBox="0 0 900 700" style="position:absolute; z-index: -1">
+                            <defs>
+                                <linearGradient id="PSgrad_01" x1="64.279%" x2="0%" y1="76.604%" y2="0%">
+                                    <stop offset="0%" stop-color="rgb(1,230,248)" stop-opacity="1"/>
+                                    <stop offset="100%" stop-color="rgb(29,62,222)" stop-opacity="1"/>
+                                </linearGradient>
+                            </defs>
+                            <path fill-rule="evenodd" opacity="0.102" fill="url(#PSgrad_01)"
+                                  d="M616.656,2.494 L89.351,98.948 C19.867,111.658 -16.508,176.639 7.408,240.130 L122.755,546.348 C141.761,596.806 203.597,623.407 259.843,609.597 L697.535,502.126 C748.221,489.680 783.967,441.432 777.751,392.742 L739.837,95.775 C732.096,35.145 677.715,-8.675 616.656,2.494 Z"/>
+                        </svg>
+                        <!-- *************-->
+
+                        <svg width="100%" viewBox="0 0 700 500">
+                            <clipPath id="clip-path">
+                                <path d="M89.479,0.180 L512.635,25.932 C568.395,29.326 603.115,76.927 590.357,129.078 L528.827,380.603 C518.688,422.048 472.661,448.814 427.190,443.300 L73.350,400.391 C32.374,395.422 -0.267,360.907 -0.002,322.064 L1.609,85.154 C1.938,36.786 40.481,-2.801 89.479,0.180 Z"></path>
+                            </clipPath>
+                            <!-- xlink:href for modern browsers, src for IE8- -->
+                            <image clip-path="url(#clip-path)" xlink:href="/stylesheet/images/Peoplework.jpg" width="100%"
+                                   height="465" class="svg__image"></image>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <h2>INTERNET BANKING SYSTEM </h2>
+                <p> Your Perfect Banking Partner,Where service is a way of Changing lives; Helping You Make Smart Financial Choices.
+                    This helps you carry out a variety of banking transactions and access an extensive range of features, right from where you are, in just a few clicks.</p>
+                <p>
+                    <small>With our Internet Banking solutions, you can now bid goodbye to long queues and unwanted delays.
+                        Experience a secure and simplified process of transaction without a separate transaction password.
+                        All authentication parameters are present on the same page that further reduces the steps, 
+                        making the transaction process quick and easy.
+                    </small>
+                </p>
+             </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid gtco-features" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h2> Explore The Services<br/>
+                    We Offer For You </h2>
+                <p> A bank’s job is to provide customers with financial services that help people  manage their lives better. 
+                    Whether you are opening your first bank account or have managed an account for years,
+                    This ensures you to get the most out of your current financial institution.
+                Being open to ideas and acting at the right moment are perhaps the most important factors in securing one's 
+                financial and general wellbeing. To help you realise your goals, here are some articles,
+                Infographics and more for your Open Access!</p>
+                </div>
+            <div class="col-lg-8">
+                <svg id="bg-services"
+                     width="100%"
+                     viewBox="0 0 1000 800">
+                    <defs>
+                        <linearGradient id="PSgrad_02" x1="64.279%" x2="0%" y1="76.604%" y2="0%">
+                            <stop offset="0%" stop-color="rgb(1,230,248)" stop-opacity="1"/>
+                            <stop offset="100%" stop-color="rgb(29,62,222)" stop-opacity="1"/>
+                        </linearGradient>
+                    </defs>
+                    <path fill-rule="evenodd" opacity="0.102" fill="url(#PSgrad_02)"
+                          d="M801.878,3.146 L116.381,128.537 C26.052,145.060 -21.235,229.535 9.856,312.073 L159.806,710.157 C184.515,775.753 264.901,810.334 338.020,792.380 L907.021,652.668 C972.912,636.489 1019.383,573.766 1011.301,510.470 L962.013,124.412 C951.950,45.594 881.254,-11.373 801.878,3.146 Z"/>
+                </svg>
+                <div class="row">
+                    <div class="col">
+                        <div class="card text-center">
+                            <div class="oval"><img class="card-img-top" src="/stylesheet/images/online banking.png" alt=""></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Digital Banking</h3>
+                                <p class="card-text">Banking that is done through the digital platform without any paperwork is referred to as digital banking.</p>
+                            </div>
+                        </div>
+                        <div class="card text-center">
+                            <div class="oval"><img class="card-img-top" src="/stylesheet/images/credit-card.png" alt=""></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Debit Card</h3>
+                                <p class="card-text">A debit card  is a plastic card that
+                                    provides an alternative payment method to cash when making purchases.
+                                    Banks also offer discounts on select brands and cashback offers on debit card purchases.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card text-center">
+                            <div class="oval"><img class="card-img-top" src="/stylesheet/images/loan.png" alt=""></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Loans</h3>
+                                <p class="card-text">Explore our wide range of loans, that fits into your requirement 
+                                    and lets you achieve your goals.</p>
+                            </div>
+                        </div>
+                        <div class="card text-center">
+                            <div class="oval"><img class="card-img-top" src="/stylesheet/images/account.png" alt=""></div>
+                            <div class="card-body">
+                                <h3 class="card-title">Accounts</h3>
+                                <p class="card-text">Manage money and bank better with different type of bank accounts to cater 
+                                    to different categories of industries,individuals and banking transactions.
+                                    eget.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- About Area -->
+<div class="container-fluid gtco-numbers-block" id="about">
+    <div class="container">
+        <svg width="100%" viewBox="0 0 1600 400">
+            <defs>
+                <linearGradient id="PSgrad_03" x1="80.279%" x2="0%"  y2="0%">
+                    <stop offset="0%" stop-color="rgb(1,230,248)" stop-opacity="1" />
+                    <stop offset="100%" stop-color="rgb(29,62,222)" stop-opacity="1" />
+
+                </linearGradient>
+
+            </defs>
+            <!-- <clipPath id="clip-path3">
+
+                                      </clipPath> -->
+
+            <path fill-rule="evenodd"  fill="url(#PSgrad_03)"
+                  d="M98.891,386.002 L1527.942,380.805 C1581.806,380.610 1599.093,335.367 1570.005,284.353 L1480.254,126.948 C1458.704,89.153 1408.314,59.820 1366.025,57.550 L298.504,0.261 C238.784,-2.944 166.619,25.419 138.312,70.265 L16.944,262.546 C-24.214,327.750 12.103,386.317 98.891,386.002 Z"></path>
+
+            <clipPath id="ctm" fill="none">
+                <path
+                        d="M98.891,386.002 L1527.942,380.805 C1581.806,380.610 1599.093,335.367 1570.005,284.353 L1480.254,126.948 C1458.704,89.153 1408.314,59.820 1366.025,57.550 L298.504,0.261 C238.784,-2.944 166.619,25.419 138.312,70.265 L16.944,262.546 C-24.214,327.750 12.103,386.317 98.891,386.002 Z"></path>
+            </clipPath>
+
+            <!-- xlink:href for modern browsers, src for IE8- -->
+            <image  clip-path="url(#ctm)" xlink:href="/stylesheet/images/word-map.png" height="800px" width="100%" class="svg__image">
+
+            </image>
+
+        </svg>
+        <div class="row">
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">125</h5>
+                        <p class="card-text">Active Projects</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">200</h5>
+                        <p class="card-text">Business Growth</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">530</h5>
+                        <p class="card-text">Completed Projects</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">941</h5>
+                        <p class="card-text">Happy Clients</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid gtco-features-list">
+    <div class="container">
+        <div class="row">
+            <div class="media col-md-6 col-lg-4">
+                <div class="oval mr-4"><img class="align-self-start" src="/stylesheet/images/quality-results.png" alt=""></div>
+                <div class="media-body">
+                    <h5 class="mb-0">Guarantee by Banks</h5>
+                    In modern banking, customers are provided with the guarantee by the banks.
+                    This happens mostly when the customers have to deposit a large fund in courts or government offices for various reasons.
+                </div>
+            </div>
+            <div class="media col-md-6 col-lg-4">
+                <div class="oval mr-4"><img class="align-self-start" src="/stylesheet/images/analytics.png" alt=""></div>
+                <div class="media-body">
+                    <h5 class="mb-0">Vision and Values</h5>
+                    To be the preferred financial solutions provider excelling in customer delivery 
+                    through insight, empowered employees and smart use of technology.  </div>
+            </div>
+            <div class="media col-md-6 col-lg-4">
+                <div class="oval mr-4"><img class="align-self-start" src="/stylesheet/images/affordable-pricing.png" alt=""></div>
+                <div class="media-body">
+                    <h5 class="mb-0">Consultancy</h5>
+                     We Hire legal, financial, and market leaders and experts
+                     who can provide advice to our customers regarding industry, income, trade, investment, etc.
+                </div>
+            </div>
+            <div class="media col-md-6 col-lg-4">
+                <div class="oval mr-4"><img class="align-self-start" src="/stylesheet/images/easy-to-use.png" alt=""></div>
+                <div class="media-body">
+                    <h5 class="mb-0">Easy To Use</h5>
+                   With the world going cashless, bank accounts have become a necessity rather than an option.
+                   Having a bank account is essentially having a 24x7 security for your hard-earned money.
+                   ut safety isn’t the only feature we offer. 
+                </div>
+            </div>
+            <div class="media col-md-6 col-lg-4">
+                <div class="oval mr-4"><img class="align-self-start" src="/stylesheet/images/free-support.png" alt=""></div>
+                <div class="media-body">
+                    <h5 class="mb-0">Free Support</h5>
+                    We are here to help you manage your money, and are constantly looking at ways to make things easier.
+                    Our relationship teams are ready to provide support to clients facing  challenges to their operations.
+                </div>
+            </div>
+            <div class="media col-md-6 col-lg-4">
+                <div class="oval mr-4"><img class="align-self-start" src="/stylesheet/images/effectively-increase.png" alt=""></div>
+                <div class="media-body">
+                    <h5 class="mb-0">Rate of Interest</h5>
+                    You can earn interest on your savings and make hassle-free payments. Attractive Rate of Interest for Fixed Deposits.
+               
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="d-flex flex-column flex-md-row text-center text-md-start justify-content-between py-1 px-4 px-xl-5 bg-primary"></div>
+    <br/>
+    <!-- Footer Start -->
+    <footer class="container-fluid" id="gtco-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6" id="contact">
+                <h4> Contact Us </h4>
+                <input type="text" class="form-control" placeholder="Full Name">
+                <input type="email" class="form-control" placeholder="Email Address">
+                <textarea class="form-control" placeholder="Message"></textarea>
+                <a href="#" class="submit-button">READ MORE <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="col-lg-6">
+                <div class="row">
+                    <div class="col-6">
+                        <h4>Company</h4>
+                        <ul class="nav flex-column company-nav">
+                            <li class="nav-item"><a class="nav-link" href="/AccountCreation/SavingCustomerHome">Home</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                        </ul>
+                      
+                    </div>
+                    <div class="col-6">
+                        <h4>Services</h4>
+                        <ul class="nav flex-column services-nav">
+                            <li class="nav-item"><a class="nav-link" href="#">Digital Banking</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Online Transfer</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Deposit</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Wihtdrawal</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#">Balance</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col-12">
+                        <p>&copy; 2021. All Rights Reserved.Design by Capgemini.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <!-- Footer End -->
+
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="/stylesheet/js/jquery-3.3.1.slim.min.js"></script>
+<script src="/stylesheet/js/popper.min.js"></script>
+<script src="/stylesheet/js/bootstrap.min.js"></script>
+<!-- owl carousel js-->
+<script src="/stylesheet/owl-carousel/owl.carousel.min.js"></script>
+<script src="/stylesheet/js/main.js"></script>
+
+
+</body>
+</html>

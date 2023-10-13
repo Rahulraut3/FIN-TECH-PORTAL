@@ -1,0 +1,28 @@
+﻿@model IBS_DALayer.Models.AccountDetail
+@{
+    ViewData["Title"] = "CheckBalanceForFixed";
+    Layout = "~/Views/Shared/_FixedCustomerLayout.cshtml";
+}
+<h5 style="color:red;">@ViewBag.ExcError</h5>
+<br/>
+<br/>
+<br/>
+<div class="row">
+    <div class="col-md-4 offset-xl-1">
+        <div class="form-outline mb-4">
+             <label class="form-label">Your Account Balance</label>
+            <label class="form-control form-control-lg">@Model.AccountBalance</label>
+          </div>
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+

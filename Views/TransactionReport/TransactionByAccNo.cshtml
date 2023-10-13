@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "TransactionByAccNo";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<h5 style="color:red;">@ViewBag.ExcError</h5>
+
+<hr />  
+<div class="row">
+    <div class="col-md-4 offset-xl-1">
+        <h5 style="color:red">
+            @ViewBag.AccError
+        </h5>
+        <form action="TransactionByAccNo" method="post">
+            <div class="form-outline mb-4">
+             <label class="form-label">Account Number</label>
+            <input type="number" id="ACNumber" name="AccountNumber" class="form-control form-control-lg"
+              placeholder="Enter here" />
+          </div>
+          <div class="text-center text-lg-start mt-4 pt-2">
+            <input type="submit" class="btn btn-primary btn-lg" value="Show"
+              style="padding-left: 2.5rem; padding-right: 2.5rem;"/>
+          </div>
+        </form>
+        <br/>
+    </div>
+</div>
+
+

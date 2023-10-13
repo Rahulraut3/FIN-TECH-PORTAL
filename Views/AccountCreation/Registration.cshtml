@@ -1,0 +1,193 @@
+﻿@model IBS_DALayer.Models.AccountCreationRequest
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_MainMenu.cshtml"; }
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account </title>
+
+    <style>
+        .divider:after,
+        .divider:before {
+            content: "";
+            flex: 1;
+            height: 1px;
+            background: #eee;
+        }
+
+        .h-custom {
+            height: calc(100% - 73px);
+        }
+    </style>
+</head>
+<body>
+
+    <h5 style="color:red;">@ViewBag.ExcError</h5>
+
+    <section clmargin>
+        <div class="container-fluid h-custom">
+
+            <form asp-action="Registration" method="post">
+                <div class="row d-flex justify-content-left align-items-left m-lg-2">
+
+                    <!--Personal details-->
+                    <div class="p-5">
+                        <h4 class="fw-normal mb-5" style="color: #4835d4;">Personal Info</h4>
+
+                        <div class="form-outline form-white">
+                            <label for="text" class="form-label">Full Name</label>
+                            <input type="text" name="CustomerName" class="form-control form-control-lg" placeholder="Enter your Name" pattern="^[a-zA-Z''-'\s]{3,20}" title="Please enter Correct Name :" id="custName" required>
+                        </div>
+                        <div class="form-outline form-white">
+                            <label for="phone" class="form-label">Phone Number</label>
+                            <input type="number" name="PhoneNumber" class="form-control form-control-lg" placeholder="Enter Phone Number" pattern="[^[0-9]*$]{10}" title="Enter 10 digit Phone Number :" id="exampleInputphone" aria-describedby="PhoneHelp" required>
+                            <span style="color:red;"> @ViewBag.phError</span>
+                        </div>
+                        <div class="form-outline form-white">
+                            <label for="email" class="form-label">Email Id</label>
+                            <input type="email" name="Email" class="form-control form-control-lg" placeholder="name@example.com" id="email" aria-describedby="emailHelp" required>
+                        </div>
+                        <div class="form-outline form-white">
+                            <label for="aadhaar" class="form-label">Aadhaar Number</label>
+                            <input type="number" name="Aadhar" required class="form-control form-control-lg" placeholder="Enter Aadhaar Number" id="exampleInputaadhaar" pattern="[^[0-9]*$]{12}" title="Enter 12 digit Aadhar Number :">
+                            <span style="color:red;"> @ViewBag.AaError</span>
+                        </div>
+                        <div class="form-outline form-white">
+                            <label for="text" class="form-label">PAN</label>
+                            <input type="text" required name="PAN" class="form-control form-control-lg" placeholder="PAN" id="exampleInputpan" aria-describedby="panHelp">
+                            <span style="color:red;"> @ViewBag.pnError</span>
+                        </div>
+                        <div class="form-outline datepicker w-100">
+                            <label for="text" class="form-label">Date Of Birth</label>
+                            <input type="date" name="DOB" required class="form-control form-control-lg" placeholder="Date Of Birth" id="exampleInputbirthdate" aria-describedby="dateHelp">
+                            <span style="color:red;"> @ViewBag.ageError</span>
+                        </div>
+                        <div class="form-outline form-white">
+                            <label for="text" class="form-label">Address</label>
+                            <input type="text" name="CustAddress" required class="form-control form-control-lg" placeholder="Address" id="exampleInputAddress" aria-describedby="addressHelp">
+                        </div>
+                    </div>
+                    <!--Account details-->
+                    <div class="p-5">
+                        <h4 class="fw-normal mb-5" style="color: #4835d4;">Account Info</h4>
+
+                        <div class="form-outline">
+                            <label class="form-label" for="Account Type">Account Type</label><br />
+                            <select name="AccountType" id="SelectAccountType" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" required>
+                                <option value=""></option>
+                                <option value="Saving">Saving Account</option>
+                                <option value="Fixed">Fixed Account</option>
+                            </select>
+                        </div>
+
+                        <div class="form-outline form-white">
+                            <label for="balance" class="form-label">Minimum Account Balance</label>
+                            <input type="number" name="AccountBalance" class="form-control form-control-lg" placeholder="Enter Account Balance" id="exampleInputbalance" pattern="[^[0-9]*$]{3,10}" title="Please Enter Account Balance (>=3000) :" required>
+                            <span style="color:red;"> @ViewBag.balError</span>
+                        </div>
+
+                        <div class="form-outline">
+                            <label for="Branch Name" class="form-label">Branch Name</label><br />
+                            <select name="BranchName" id="SelectBranchName" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" required>
+                                <option value=""></option>
+                                <option value="Pune">Pune</option>
+                                <option value="Mumbai">Mumbai</option>
+                                <option value="Kolkata">Kolkata</option>
+                                <option value="Delhi">Delhi</option>
+                                <option value="Banglore">Banglore</option>
+                                <option value="Bhopal">Bhopal</option>
+                                <option value="Indore">Indore</option>
+                                <option value="Khargone">Khargone</option>
+
+                            </select>
+                        </div>
+                    </div>
+                    <!--Nominee details-->
+                    <div class="p-5">
+                        <h4 class="fw-normal mb-5" style="color: #4835d4;">Nominee Info</h4>
+
+                        <div class="form-outline form-white">
+                            <label for="text" class="form-label">Nominee Name</label>
+
+                            <input type="text" name="NomineeName" class="form-control form-control-lg" placeholder="Enter Nominee Name" id="nomineeName" pattern="^[a-zA-Z''-'\s]{3,20}" title="Please enter Correct Name :" required>
+                            <span asp-validation-for="NomineeName" class="text-danger"></span>
+                            @Html.ValidationMessage("NomineeName")
+                        </div>
+
+
+                        <div class="form-outline">
+                            <label for="Nominee Name" class="form-label">Nominee Relation</label><br />
+                            <select name="Relation" id="SelectRelation" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example" required>
+                                <option value=""></option>
+                                <option value="Father">Father</option>
+                                <option value="Mother">Mother</option>
+                                <option value="Brother">Brother</option>
+                                <option value="Sister">Sister</option>
+                                <option value="Uncle">Uncle</option>
+                                <option value="Aunt">Aunt</option>
+                               
+                            </select>
+                        </div>
+
+
+                        <div class="form-outline form-white">
+                            <label for="Phone" class="form-label">Phone Number</label>
+                            <input type="number" name="NomPhoneNumber" required class="form-control form-control-lg" placeholder="Enter Phone Number" id="exampleInput" pattern="[^[0-9]*$]{10}" title="Enter 10 digit Phone Number :">
+                            <span style="color:red;"> @ViewBag.nphError</span>
+                        </div>
+                        <div class="form-outline form-white">
+                            <label for="text" class="form-label">Nominee Address</label>
+                            <input type="text" name="NomineeAddress" required class="form-control form-control-lg" placeholder="Nominee Address" id="exampleInputAddress" aria-describedby="addressHelp">
+                        </div>
+                    </div>
+                </div>
+
+                <div asp-validation-summary="All"></div>
+                <!--Register and reset button-->
+                <div style="margin-left:500px" class="p-5 ">
+                    <div class="form-outline form-white">
+                        <input type="submit" class="btn btn-primary" value="Register">
+                        <input type="reset" class="btn btn-danger" value="Reset">
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </section>
+
+
+    <script type="text/javascript">
+        function Validate() {
+            var BranchName = document.getElementById("SelectBranchName");
+            var AccountType = document.getElementById("SelectAccountType");
+            var relation = document.getElementById("SelectRelation")
+            var CustomerName = document.getElementById(custName).value;
+            if (BranchName.value == "") {
+                //If the "Please Select" option is selected display error.
+                alert("Please select an option!");
+                return false;
+            }
+            else if (AccountType.value == "") {
+                alert("Please select an option!");
+                return false;
+            }
+            else if(relation.value == "") {
+                alert("please select an option");
+                return false;
+            }
+            
+            return true;
+        }
+    </script>
+
+
+</body>
+</html>
